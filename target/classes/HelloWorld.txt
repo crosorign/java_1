@@ -1,4 +1,0 @@
-line 1: Hello world tech
-line 2: Started reading line 2
-line 3: Started reading line 3
-line 4: Started reading line 4
