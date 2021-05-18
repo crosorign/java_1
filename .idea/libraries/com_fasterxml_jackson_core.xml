@@ -1,0 +1,19 @@
+<component name="libraryTable">
+  <library name="com.fasterxml.jackson.core">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../tmp/Sanju/original data/com.fasterxml.jackson.core.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../tmp/Sanju/original data/com.fasterxml.jackson.databind.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../tmp/Sanju/original data/google-collections-1.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../tmp/Sanju/original data/gson-2.6.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../tmp/Sanju/original data/jackson-annotations-2.11.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../tmp/Sanju/original data/jackson-core-2.11.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../tmp/Sanju/original data/jackson-core-lgpl-0.9.8.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../tmp/Sanju/original data/jackson-databind-2.11.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../tmp/Sanju/original data/jackson-mapper-lgpl-0.9.8.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../tmp/Sanju/original data/json-flattener-0.1.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../tmp/Sanju/original data/json-simple-1.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
